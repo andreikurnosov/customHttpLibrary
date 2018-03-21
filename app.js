@@ -13,7 +13,7 @@ const data = {
   email: 'johndoe@gmail.com'
 }
 
-// Create User
+// //Create User
 // http.post('http://jsonplaceholder.typicode.com/users', data)
 //   .then(data => console.log(data))
 //   .catch(err => console.log(err));
